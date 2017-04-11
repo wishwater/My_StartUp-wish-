@@ -26,6 +26,18 @@ font-size:18px;
 }
 
 .advantages{
-  height:200px;
-  width:100px;
+  margin-top:15%;
+  text-align: center;
+}
+
+.buy{
+  height:100px;
+  margin-top:5%;
+  background-color:#bd5b5b;
+}
+
+.buy-now{
+  border-radius: 5px;
+  border:1px solid black;
+
 }
