@@ -123,3 +123,53 @@ background-color: #eee;
   width:100%;
   margin-top:50px;
 }
+
+.red_button{
+  text-align: center;
+  background-color: #e77769;
+  border-radius: 5px;
+  height: 30;
+  }
+
+.profile{
+  width: 100%;
+  display: inline-block;
+  margin-top: 35%;
+
+}
+
+.img-bottom{
+  display: inline-block;
+  float: right;
+  margin-top: 30%;
+}
+
+.Aroow{
+  margin-top: 90%;
+}
+
+.page5{
+  height: 300px;
+}
+
+.display{
+  display: inline-block;
+}
+
+.marg{
+  margin-left: 45%;
+}
+
+.page6{
+background-color: #e8766b;
+height:100px;
+}
+
+.bottom-image-margin{
+  margin-top: 45%;
+}
+
+.text-bottom{
+  display: inline-block;
+  text-align: center;
+}
